@@ -1,0 +1,7 @@
+{
+  "name": "garden",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
