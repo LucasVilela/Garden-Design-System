@@ -1,6 +1,5 @@
-export const lineHeights = {
-  shorter: "125%",
-  short: "140%",
-  base: "160%",
-  tall: "180%"
+export const fontWeights = {
+  regular: "400",
+  medium: "500",
+  bold: "700"
 };

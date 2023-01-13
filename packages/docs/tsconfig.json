@@ -1,0 +1,6 @@
+{
+  "extends": "@garden-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ],
+}
