@@ -1,0 +1,3 @@
+{
+  "extends": "garden-ui/elint-config"
+}

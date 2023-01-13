@@ -29,7 +29,7 @@ export const {
     fontSizes,
     fonts,
     lineHeights,
-    borderRadius,
+    radii: borderRadius,
     space
   }
 });
