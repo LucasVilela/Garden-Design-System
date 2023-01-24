@@ -6,11 +6,11 @@ This is a seed of a great design system
 
 ## Components
 
-- [ ] Text
-- [ ] Heading
+- [x] Text
+- [x] Heading
 - [ ] Box
-- [ ] Button
+- [x] Button
 - [ ] TextInput
 - [ ] Checkbox
-- [ ] Avatar
+- [x] Avatar
 - [ ] MultiStep
