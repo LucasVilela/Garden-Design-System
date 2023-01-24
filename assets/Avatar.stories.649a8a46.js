@@ -1,0 +1,2 @@
+import{A as t}from"./index.004a80a1.js";import"./index.f3ce3594.js";import"./iframe.cd4e9e32.js";import"./index.becc998c.js";import"./jsx-runtime.8e6f1186.js";const c={title:"Avatar",component:t,args:{src:"https://github.com/lucasvilela.png",alt:"Lucas"}},l={},m={args:{src:void 0,alt:"Lucas"}},p=["Primary","WithFallback"];export{l as Primary,m as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.649a8a46.js.map
